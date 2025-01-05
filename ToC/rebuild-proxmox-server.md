@@ -7,6 +7,7 @@
 ### 目錄
 - <span style="display: flex; justify-content: space-between;">[第一篇 前言](https://lavonzux.github.io/post/20241221)<sub>最後更新: 2024-12-29</sub></span>
 
+- <span style="display: flex; justify-content: space-between;">[第二篇 前言](https://lavonzux.github.io/post/20250105)<sub>最後更新: 2025-01-05</sub></span>
 
 
 <br><br><br><br><br>

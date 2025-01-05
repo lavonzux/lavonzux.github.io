@@ -3,7 +3,7 @@
 
 ## 系列文章
 
-- <span style="display: flex; justify-content: space-between;">[重建家用伺服器](https://lavonzux.github.io/ToC/rebuild-proxmox-server)<sub>最後更新: 2024-12-29</sub></span>
+- <span style="display: flex; justify-content: space-between;">[重建家用伺服器](https://lavonzux.github.io/ToC/rebuild-proxmox-server)<sub>最後更新: 2025-01-05</sub></span>
 
 
 
