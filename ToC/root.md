@@ -6,7 +6,7 @@
 - <span style="display: flex; justify-content: space-between;">[重建家用伺服器](https://lavonzux.github.io/ToC/rebuild-proxmox-server)<sub>最後更新: 2025-01-12</sub></span>
 
 
-- <span style="display: flex; justify-content: space-between;">[重建家用伺服器](https://lavonzux.github.io/ToC/rescue-lvm)<sub>最後更新: 2025-01-12</sub></span>
+- <span style="display: flex; justify-content: space-between;">[拯救虛擬機的LVM](https://lavonzux.github.io/ToC/rescue-lvm)<sub>最後更新: 2025-02-16</sub></span>
 
 
 ## 單篇文章
