@@ -10,4 +10,4 @@
 ## 單篇文章
 
 
-- <span style="display: flex; justify-content: space-between;">[重建家用伺服器](https://lavonzux.github.io/post/20250120)<sub>最後更新: 2025-01-20</sub></span>
+- <span style="display: flex; justify-content: space-between;">[在Debian上建SMB網路磁碟](https://lavonzux.github.io/post/20250120)<sub>最後更新: 2025-01-20</sub></span>
